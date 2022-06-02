@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * mai- entry point
+ * main- entry point
  *
  * Return: always 0 (sucess)
  */
