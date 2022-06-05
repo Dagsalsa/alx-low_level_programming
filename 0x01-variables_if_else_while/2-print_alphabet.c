@@ -9,12 +9,10 @@
 int main(void)
 {
 char ch;
-clrscr();
-for (ch= 'a'; ch<= 'z'; ch++)
+while (alphabet <= 'z')
 {
 putchar(ch);
-putchar('\n');
-getch();
+ch++
 }
 return (0);
 }
