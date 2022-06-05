@@ -9,10 +9,10 @@
 int main(void)
 {
 char ch;
-while (alphabet <= 'z')
+while (ch <= 'z')
 {
 putchar(ch);
-ch++
+ch++;
 }
 return (0);
 }
