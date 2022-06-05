@@ -13,6 +13,7 @@ if (al == 'q' || al == 'e')
 {
 continue;
 }
+else
 putchar(al);
 }
 putchar('\n');
