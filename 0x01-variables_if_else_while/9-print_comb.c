@@ -13,7 +13,8 @@ for (i = '0'; i <= '9'; i++)
 {
 for (j = '0'; i <= '9'; i++)
 {
-putchar(ij)
+putchar(i);
+putchar(j);
 }
 }
 putchar('\n');
