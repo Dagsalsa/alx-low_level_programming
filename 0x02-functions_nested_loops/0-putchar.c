@@ -16,3 +16,4 @@ putchar(post[i]);
 putchar('\n');
 return (0);
 }
+}
