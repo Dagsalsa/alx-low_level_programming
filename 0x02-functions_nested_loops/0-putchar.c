@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-char post[7] = "_putchar";
+char post[9] = "_putchar";
 int i;
 {
 for (i = 0; i <= 7; i++)
