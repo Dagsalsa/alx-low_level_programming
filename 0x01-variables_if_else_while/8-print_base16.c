@@ -14,7 +14,8 @@ for( hx = 'a'; hx <= 'f' ; hx++)
 {
 putchar(hx);
 }
+}
 putchar('\n');
 return (0);
 }
-}
+
