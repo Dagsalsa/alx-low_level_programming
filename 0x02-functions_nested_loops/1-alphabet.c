@@ -6,8 +6,9 @@
  */
 int main(void)
 {
-void print_alphabet(char alph)
+void print_alphabet()
 {
+char alph;
 for (alph = 'a'; alph <= 'z'; alph++)
 {
 putchar(alph);
